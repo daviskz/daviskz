@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @daviskz
+- 👋 Hi, I’m Davi SIlva Viana
 - 👀 I’m interested in progaming
 - 🌱 I’m currently learning html and css and js
 - 💞️ I’m looking to collaborate on ...
